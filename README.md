@@ -50,4 +50,7 @@ Your method should behave the same way––iterating over the given collection 
 
 Make sure to run `bundle install` before running your tests.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-my-collect/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-my-collect/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG collect`</p>
